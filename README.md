@@ -1,1 +1,1 @@
-"# idle-sky" 
+# idle-sky
